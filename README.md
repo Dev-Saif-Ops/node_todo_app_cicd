@@ -14,6 +14,7 @@ Run these commands:
 `node app.js`
 
 or Run by docker compose, yes it is...:)
+firse change kiya...)
 
 test
 
