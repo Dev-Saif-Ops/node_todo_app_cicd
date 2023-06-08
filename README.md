@@ -15,6 +15,7 @@ Run these commands:
 
 or Run by docker compose, yes it is...:)
 firse change kiya...)
+again change on 8 jun 23...)
 
 test
 
